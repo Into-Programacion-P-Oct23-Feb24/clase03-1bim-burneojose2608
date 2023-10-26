@@ -15,23 +15,18 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Tipos de dato en Java
+        //  para crear un cometario de poner doble eslash
         
         // Tipos de dato en Java
 
         // Tipo de datos Entero
         
         /*
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
+        para crear un cometario de multiples lineas se realiza pone un eslash y un por y para finalizar
+        se pone un por y un eslash
+   
+        
+        
         */
         int variable1;
         int variable2 = 10;
