@@ -16,6 +16,7 @@ public class Ejemplo05 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
         System.out.println("----------------");
         System.out.println(10 / 3);
         
@@ -30,7 +31,7 @@ public class Ejemplo05 {
         System.out.println(10 % 3 );
         
         System.out.println("----------------");
-        System.out.println(Math.pow(10, 2));
+        System.out.println(Math.pow(10, 2)); //el metodo pow me permite elevar al cuadrado
         
         System.out.println("----------------");
         System.out.println(Math.sqrt(16));

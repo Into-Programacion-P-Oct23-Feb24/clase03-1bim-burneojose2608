@@ -27,7 +27,7 @@ public class Ejemplo03 {
    
         
         
-        */
+         */
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
